@@ -1,0 +1,10 @@
+---
+title: Blog 2
+date: 2021-08-07 11:09:00 +01:00
+categories:
+- Misc
+tags:
+- test
+---
+
+A blog post that was posted after the first one.
